@@ -1,0 +1,11 @@
+   BBBBB   
+     B     
+        B  
+B    W    B
+B  BWWW   B
+   WWKWW BB
+   BWWW   B
+B    W    B
+           
+     B     
+   BBBBB   

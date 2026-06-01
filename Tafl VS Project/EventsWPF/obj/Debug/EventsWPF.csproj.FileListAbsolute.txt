@@ -1,0 +1,45 @@
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\bin\Debug\EventsWPF.exe.config
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\bin\Debug\EventsWPF.exe
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\bin\Debug\EventsWPF.pdb
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\MainWindow.g.cs
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\App.g.cs
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF_MarkupCompile.cache
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF_MarkupCompile.lref
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\MainWindow.baml
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.g.resources
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.Properties.Resources.resources
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.csproj.GenerateResource.Cache
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.exe
+c:\users\joelb\documents\visual studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.pdb
+C:\Users\joelb\Documents\Visual Studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.csproj.AssemblyReference.cache
+C:\Users\joelb\Documents\Visual Studio 2017\Projects\EventsWPF\EventsWPF\obj\Debug\EventsWPF.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\bin\Debug\EventsWPF.exe.config
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\bin\Debug\EventsWPF.exe
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\bin\Debug\EventsWPF.pdb
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.csproj.AssemblyReference.cache
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\MainWindow.g.cs
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\App.g.cs
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF_MarkupCompile.cache
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF_MarkupCompile.lref
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\MainWindow.baml
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.g.resources
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.Properties.Resources.resources
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.csproj.GenerateResource.cache
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.exe
+C:\Users\joelb\source\repos\EventsWPF\EventsWPF\obj\Debug\EventsWPF.pdb
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\bin\Debug\EventsWPF.exe.config
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\bin\Debug\EventsWPF.exe
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\bin\Debug\EventsWPF.pdb
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.csproj.AssemblyReference.cache
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\MainWindow.g.cs
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\App.g.cs
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF_MarkupCompile.cache
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF_MarkupCompile.lref
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\MainWindow.baml
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.g.resources
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.Properties.Resources.resources
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.csproj.GenerateResource.cache
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.exe
+C:\Users\joelb\source\repos\Tafl VS Project\EventsWPF\obj\Debug\EventsWPF.pdb
