@@ -9,4 +9,4 @@ Capture: Pieces are captured by "sandwiching" them horizontally or vertically be
 Win Condition: The defender wins if the king reaches any of the four corner squares; the attacker wins if they surround and capture the king
 Installation of game
 click on Tafl.exe, download to local folder, double click to play.
-![alt text](https://github.com/Kuro-vi-Drakon/Tafl/Pic1.png "")
+![alt text](https://github.com/Kuro-vi-Drakon/Tafl/blob/main/Pic1.png "")
